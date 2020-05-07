@@ -1,5 +1,8 @@
 # Linux chat program
-A simple not secure chat program to chat on a linux machine
+A simple unsecure chat program to chat on a linux machine, made for the great purpose of fun
 
-Idea:
-- Have multiple people connect to a single linux machine and chat on it
+# How to use
+1. Install program on server
+2. Connect to server
+3. Chat
+
