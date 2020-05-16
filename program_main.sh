@@ -1,6 +1,6 @@
 #!/bin/bash
 # a simple chat program
-# two people can chat on the same machine as the same user
+# two people can chat connected to the same machine
 
 #initialize timer
 touch TIME
